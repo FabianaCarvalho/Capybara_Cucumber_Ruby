@@ -4,7 +4,7 @@ Este curso aprendi a fazer automações em sites utilizando a metodologia:
 
 1) BDD(Behavior Driven Development Desenvolvimento Guiado por Comportamento).
 
-2) Cucumber framework 
+2) Cucumber framework. 
 
 3) Fundamentos do Gherkin.
 
